@@ -1,4 +1,4 @@
-# recipeapp
+# recipe app
 
 A Recipe App
 
