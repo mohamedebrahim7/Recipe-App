@@ -2,10 +2,5 @@
 
 A Recipe App
 
-
-#output
-
-![1](https://user-images.githubusercontent.com/77003100/177797198-67d2a4c7-35f4-4507-8bff-76ff48ab238d.png)
-
-![2](https://user-images.githubusercontent.com/77003100/177797239-96fa08bc-9f7c-44e7-8bc9-a6bb869491cb.png)
-![Uploading 2.png…]()
+![2](https://user-images.githubusercontent.com/77003100/177797457-d29e0bd3-bd0f-4068-bfb4-ad932eb7e7bf.png)
+![1](https://user-images.githubusercontent.com/77003100/177797480-b681ec54-2994-4012-af21-8da0b12472b3.png)
